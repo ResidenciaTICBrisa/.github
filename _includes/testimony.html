@@ -6,7 +6,9 @@
         {% for item in site.data.testimony.items %}
             <li class="testimony-item">
                 <div class="testimony-card">
-                    <p class="testimony-content">"{{item.body}}"</p>
+                    <div class="testimony-content-wrapper">
+                        <p class="testimony-content">"{{item.body}}"</p>
+                    </div>
                     <p class="testimony-author">{{item.author}}</p>
                 </div>
                 <img class="testimony-image" height="32" src={{item.photo}}>
