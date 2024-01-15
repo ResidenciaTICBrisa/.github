@@ -1,29 +1,29 @@
 items:
 - url: /
-  name: Home
+  name: Página Inicial
   icon_class: fa fa-home fa-lg
   
 - url: /static_files/Syllabus.pdf
-  name: Syllabus
+  name: Editais
   icon_class: fas fa-list-alt
 
-- url: /schedule/
-  name: Schedule
+- url: /Agenda/
+  name: Agenda
   icon_class: fas fa-calendar-alt
 
-- url: /lectures/
-  name: Lectures
+- url: /Projeto/
+  name: Projetos
   icon_class: fas fa-book-reader
 
-- url: /assignments/
-  name: Assignments
+- url: /Posts/
+  name: Posts
   icon_class: fas fa-user-graduate
 
-- url: /project/
-  name: Project
-  icon_class: fas fa-project-diagram
-
-- url: /materials/
-  name: Materials
+- url: /Materiais/
+  name: Materiais
   icon_class: fas fa-book
+
+- url: /sobre/
+  name: Sobre
+  icon_class: fas fa-project-diagram
   
