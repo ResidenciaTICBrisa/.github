@@ -11,11 +11,17 @@ url: "https://residenciaticbrisa.github.io" # the base hostname & protocol for y
 schoolname: "uNb"
 
 address: |
-    UnB
-    Department of Computer Science,
-    255 Maine Street, 
-   
+    UnB | Universidade de Brasília
+    FGA | Faculdade do gama
+    LAPPIS | Laboratório Aplicado de Produção Pesquisa e Inovação em Software
 
+
+emails: |
+    caguiar@unb.br
+   
+github_username: lappis-unb
+instagram_username: lappisunb
+facebook_username: lappisunb5
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
 
