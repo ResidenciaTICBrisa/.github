@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2023-09-11
-title: 'Assignment #2 - Multilayer Perceptron and Optimization'
+title: 'Github Codespaces/Programação facilitada e acessível'
 pdf: https://docs.google.com/document/d/1oR6ZBM26eIBS_CbfC6h3CJD047erQrhwipytgoBa5ys/edit?usp=sharing
 due_event: 
     type: due 

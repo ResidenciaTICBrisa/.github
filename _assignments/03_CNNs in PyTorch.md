@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2023-09-18
-title: 'Assignment #3 - CNNs in PyTorch'
+title: 'Introdução ao Python'
 pdf: https://docs.google.com/document/d/1F6EYhPU3JOZ1vAFjgXX8cvLjVdladXLRPOxMLobkTFE/edit?usp=sharing
 due_event: 
     type: due 

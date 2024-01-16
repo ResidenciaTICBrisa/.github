@@ -6,7 +6,8 @@ title: page.title
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">Released on {{ page.date | date: "%A" }} {{ page.date | date: site.dateformat }}</p>
+    <h3>Autor - Isaque</h3> 
+    <p class="post-meta">Feito em {{ page.date | date: "%A" }} {{ page.date | date: site.dateformat }}</p>
   </header>
 
   <div>
@@ -15,7 +16,7 @@ title: page.title
     {% endif %}
     <p style="font-weight: bold">
       {% if page.pdf %}
-      [<a href="{{ page.pdf }}"> Instructions </a>]
+      <!-- [<a href="{{ page.pdf }}"> Instructions </a>] -->
       {% endif %}
       {% if page.attachment %}
       [<a href="{{ page.attachment | prepend: site.baseurl }}">attachment</a>]
@@ -25,15 +26,34 @@ title: page.title
       {% endif %}
     </p>
     
-    <div style="color: gray;">
-      <h3>Work Submission Policy:</h3>
-      {% include hw_submission_policy.html %}
+    <div style="color: black;">
+      <h3>O que é Versionamento de Código?
+
+        O versionamento de código é uma prática fundamental no desenvolvimento de software, permitindo o controle, acompanhamento e organização das alterações feitas no código-fonte ao longo do tempo. Ele oferece uma visão cronológica das modificações, facilitando o trabalho colaborativo e a manutenção do código. 
+        
+        Principais Plataformas: GitHub e GitLab
+        
+        O GitHub e o GitLab são plataformas populares de hospedagem e colaboração usando o sistema de controle de versão Git. Ambos oferecem funcionalidades similares, mas hoje focaremos no GitHub e na ferramenta educacional associada, o GitHub Skills.
+        
+        GitHub Skills: A Plataforma de Aprendizado Interativa
+        
+        O GitHub Skills oferece cursos gratuitos para iniciantes e especialistas em GitHub. Os cursos são projetados para ajudar os usuários a dominar vários recursos e fluxos de trabalho do GitHub, desde o básico até recursos avançados, como Markdown, Actions, Pages, Copilot, segurança e JavaScript. 
+        
+        Os cursos são ministrados com a ajuda do GitHub Actions e fornecem feedback instantâneo e automatizado para ajudar os usuários a aprender no seu próprio ritmo. Além disso, os usuários podem trabalhar em seus próprios projetos reais enquanto aprendem novas habilidades.
+        
+        Como Utilizar o GitHub Skills
+        Cadastro na Plataforma: Inscreva-se no GitHub Skills para ter acesso aos cursos.
+        Seleção de Cursos: Escolha os cursos de acordo com seu nível e interesse.
+        Aprendizado Prático: Pratique os conceitos aprendidos em projetos pessoais ou fornecidos nos cursos.
+        Feedback e Aprimoramento: Utilize o feedback automatizado para melhorar suas habilidades.
+        </h3>
+      <!--{% include hw_submission_policy.html %}-->
     </div>
     
-    <div style="color: gray;">
+   <!-- <div style="color: gray;"> 
       <h3>Late Policy:</h3>
       {% include late_policy.html %}
-    </div>
+    </div> -->
 
   </div>
 

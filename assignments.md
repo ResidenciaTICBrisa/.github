@@ -1,6 +1,6 @@
 ---
 layout: assignments
-title: Assignments
+title: Material de apoio
 permalink: /assignments/
 ---
-You can download the assignments here. Also check out each assignment page for any additional info.
+Você pode baixar as postagens aqui. Verifique também cada página para obter informações adicionais.

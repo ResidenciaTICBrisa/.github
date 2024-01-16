@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2023-09-25
-title: 'Assignment #4 - Transfer Learning'
+title: 'Internet das Coisas/Um mundo conectado'
 pdf: https://docs.google.com/document/d/1fvGMdhfd1YMUvwi_sTHI4KhKllZT49zRgU9THcfkZhI/edit?usp=sharing
 due_event: 
     type: due 
