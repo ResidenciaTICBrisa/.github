@@ -7,23 +7,20 @@ items:
   name: Editais
   icon_class: fas fa-list-alt
 
-- url: /Agenda/
+- url: /schedule/
   name: Agenda
   icon_class: fas fa-calendar-alt
 
-- url: /Projeto/
+- url: /lectures/
   name: Projetos
   icon_class: fas fa-book-reader
 
-- url: /Posts/
+- url: /assignments/
   name: Posts
   icon_class: fas fa-user-graduate
 
-- url: /Materiais/
+- url: /materials/
   name: Materiais
   icon_class: fas fa-book
 
-- url: /sobre/
-  name: Sobre
-  icon_class: fas fa-project-diagram
   
