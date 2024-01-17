@@ -25,3 +25,22 @@
     max-width: 700px;
     text-align: center;
 }
+
+.water-mark-content {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.water-mark {
+  margin: 0;
+  padding: 20px 20px;
+
+  font-size: 16px;
+  word-spacing: 2px;
+  letter-spacing: 0.6px;
+  
+  color: white;
+
+  background-color: #262626;
+}
