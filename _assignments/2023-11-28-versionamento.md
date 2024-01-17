@@ -1,7 +1,8 @@
 ---
 type: assignment
 date: 2023-11-28
-title: 'Versionamento de Código com GitHub Skills '
+title: 'Versionamento de Código com GitHub Skills'
+author: Isaque Alvez
 body: |
     <b>O que é Versionamento de Código?</b>
     </br>
