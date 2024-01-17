@@ -3,8 +3,8 @@ items:
   name: Página Inicial
   icon_class: fa fa-home fa-lg
   
-- url: /static_files/Syllabus.pdf
-  name: Editais
+- url: /static_files/Edital2023-2.pdf
+  name: Edital 2024
   icon_class: fas fa-list-alt
 
 - url: /schedule/

@@ -63,10 +63,13 @@ body: |
     </br></br>
 
     </br>
-    Nome = “Aluno”
-    Print(”Você gostou do conteúdo?”)</br>
-                if Nome = sim:</br>
-        Print(“TEREMOS NOSSO INCRÍVEL DOJO DE PYTHON EM BREVE”)</br>
-            else:</br>
-        Print(“LEIA DE NOVO”)
+
+    <code>
+        Nome = “Aluno”</br>
+        Print(”Você gostou do conteúdo?”)</br>
+        if Nome = sim:</br>
+        &nbsp;&nbsp;Print(“TEREMOS NOSSO INCRÍVEL DOJO DE PYTHON EM BREVE”)</br>
+        else:</br>
+        &nbsp;&nbsp;Print(“LEIA DE NOVO”)
+    </code>
 ---
