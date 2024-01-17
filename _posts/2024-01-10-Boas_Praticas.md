@@ -2,7 +2,7 @@
 type: post
 date: 2024-01-10
 title: 'Elevando o Código ao Padrão: Boas Práticas de Programação Desvendadas'
-author: Amanda
+author: Amanda Campos
 body: |
     Em um mundo cada vez mais digital, as boas práticas de programação desempenham um papel crucial na construção de software robusto, eficiente e sustentável. Estas diretrizes, muitas vezes subestimadas, são alicerces que moldam a qualidade do código e contribuem para a experiência positiva do desenvolvedor. Vamos explorar por que essas práticas são tão essenciais e como elas impactam significativamente o ciclo de vida do desenvolvimento de software.
     </br></br>

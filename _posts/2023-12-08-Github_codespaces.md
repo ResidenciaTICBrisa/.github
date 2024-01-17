@@ -2,7 +2,7 @@
 type: post
 date: 2023-12-08
 title: 'Github Codespaces/Programação facilitada e acessível'
-author: Carol
+author: Carol Fernandes
 body:  |
     <b>Programação facilitada e acessível</b>
     </br>
