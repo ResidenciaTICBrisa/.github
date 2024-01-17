@@ -11,15 +11,15 @@ layout: default
 <div class="home" style="font-size: 0.8em;">
     <ul class="responsive-table" style="margin-left: 0;">
         <li class="table-header">
-            <div class="col col-1">Tipo de Evento</div>
+            <div class="col col-1"></div>
             <div class="col col-1-2">Data</div>
             <div class="col col-2">Descrição</div>
             <div class="col col-4">Material</div>
         </li>
         
 
-        {% assign all_events = site.events | concat: site.lectures %}
-        {% assign all_events = all_events | concat: site.posts %}
+        {% assign all_events = site.events | concat: site.posts %}
+        <!-- {% assign all_events = all_events | concat: site.posts %} -->
         {% assign all_events_sorted = all_events | sort: 'date' %}
 
         {% for event in all_events_sorted reversed %}
