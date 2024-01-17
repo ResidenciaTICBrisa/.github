@@ -1,5 +1,5 @@
 ---
-type: assignment
+type: post
 date: 2023-12-08
 title: 'Github Codespaces/Programação facilitada e acessível'
 author: Carol

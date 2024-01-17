@@ -1,5 +1,5 @@
 ---
-type: review
+type: due
 date: 2023-11-17
 name: Review
 description: Second Review Session

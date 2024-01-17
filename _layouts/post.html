@@ -1,23 +1,33 @@
 ---
 layout: default
+title: page.title
 ---
 <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }} by {% if page.author %} {{ page.author }}{% endif %}  
-{% if page.categories %}
-  in
-  {% for cat in page.categories %}
-  <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
-  {% endfor %}
-
-{% endif %}
-</p>
+    <h1 class="post-title" style="margin: 0px;">{{ page.title }}</h1>
+    <h3 style="margin: 0px;">{{page.author}}</h3> 
+    <p class="post-meta">Feito em {{ page.date | date: "%A" }} {{ page.date | date: site.dateformat }}</p>
   </header>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+  <div>
+    <p style="font-weight: bold">
+      {% if page.pdf %}
+        [<a href="{{ page.pdf }}"> Instructions </a>]
+      {% endif %}
+      {% if page.attachment %}
+        [<a href="{{ page.attachment | prepend: site.baseurl }}">attachment</a>]
+      {% endif %}
+      {% if page.solutions %}
+        [<a href="{{ page.solutions | prepend: site.baseurl }}">solutions</a>]
+      {% endif %}
+    </p>
+    
+    {% if page.body %}
+      <div style="color: black;">
+        {{ page.body }}
+      </div>
+    {% endif %}
 
+  </div>
 </div>

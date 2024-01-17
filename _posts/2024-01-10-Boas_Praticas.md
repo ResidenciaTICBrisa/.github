@@ -1,5 +1,5 @@
 ---
-type: assignment
+type: post
 date: 2024-01-10
 title: 'Elevando o Código ao Padrão: Boas Práticas de Programação Desvendadas'
 author: Amanda

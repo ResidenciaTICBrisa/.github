@@ -1,5 +1,5 @@
 ---
-type: assignment
+type: post
 date: 2023-12-09
 title: 'Introdução ao Python'
 author: Guilherme Oliveira

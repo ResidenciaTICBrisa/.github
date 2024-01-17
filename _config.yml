@@ -37,7 +37,7 @@ excerpt_separator: "<!--more-->"
 include: ['_images', '_css']
 exclude: ['develop']
 
-dateformat: "%m/%d/%Y"
+dateformat: "%d/%m/%Y"
 
 future: true
 collections:
@@ -45,7 +45,7 @@ collections:
         output: true
     lectures:
         output: true
-    assignments:
+    post:
         output: true
     announcements:
         output: false
@@ -54,6 +54,6 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "assignments"
+      type: "post"
     values:
-      layout: "assignment"
+      layout: "post"

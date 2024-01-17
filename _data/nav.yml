@@ -11,11 +11,11 @@ items:
   name: Agenda
   icon_class: fas fa-calendar-alt
 
-- url: /lectures/
-  name: Projetos
-  icon_class: fas fa-book-reader
+# - url: /lectures/
+#   name: Projetos
+#   icon_class: fas fa-book-reader
 
-- url: /assignments/
+- url: /posts/
   name: Posts
   icon_class: fas fa-user-graduate
 
