@@ -19,7 +19,6 @@ layout: default
         
 
         {% assign all_events = site.events | concat: site.posts %}
-        <!-- {% assign all_events = all_events | concat: site.posts %} -->
         {% assign all_events_sorted = all_events | sort: 'date' %}
 
         {% for event in all_events_sorted reversed %}
