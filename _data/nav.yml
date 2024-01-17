@@ -19,8 +19,8 @@ items:
   name: Posts
   icon_class: fas fa-user-graduate
 
-- url: /materials/
-  name: Materiais
-  icon_class: fas fa-book
+# - url: /materials/
+#   name: Materiais
+#   icon_class: fas fa-book
 
   
