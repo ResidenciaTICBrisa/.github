@@ -6,7 +6,7 @@ Neste repositório você vai encontrar material do programa de mentoria e capaci
 
 Aqui você vai encontrar editais, material de apoio e projetos desenvolvidos pelos participantes 
 
-[Pagina do projeto](https://residenciaticbrisa.github.io/.github/)
+[Pagina do projeto](https://residenciaticbrisa.github.io/)
 
 [Portfolio dos projetos já desenvolvidos](https://residenciaticbrisa.github.io/projetos_imersao/)
 

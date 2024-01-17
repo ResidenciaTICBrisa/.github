@@ -15,7 +15,7 @@ body:  |
         Basicamente, o Codespaces é um Visual Studio Code para a Web, ou seja, ao invés de baixar um software e rodar seus repositórios localmente, essa ferramenta possibilita utilizar o VS Code no seu navegador e desenvolver seus projetos remotamente.
     </br>
     </br>
-    <img src="/.github/_images/posts/2023-12-08-foto_1.png"/>
+    <img src="/_images/posts/2023-12-08-foto_1.png"/>
     </br></br>
     <b>Por que utilizar?</b>
     </br>
@@ -31,7 +31,7 @@ body:  |
         É muito simples utilizar o Codespaces, basta ter uma conta no GitHub, criar um repositório e, na aba "Code" em verde (a mesma que auxilia no “git clone” localmente), selecionar Codespaces e “Criar codespace” e pronto! Seu repositório abrirá no VS Code na Web.
     </br>
     </br>
-    <img src="/.github/_images/posts/2023-12-08-foto_2.jpeg"/>
+    <img src="/_images/posts/2023-12-08-foto_2.jpeg"/>
     </br>
     </br>
     Bom, esse é o básico das funções do Codespaces, mas ainda tem muita coisa, como os templates de desenvolvimento e a possibilidade de conectar à nuvem com o JetBrains e o Jupyter. Se quiser saber mais, você pode encontrar tudo na documentação do Codespaces em:  https://docs.github.com/pt/codespaces!

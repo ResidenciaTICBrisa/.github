@@ -17,7 +17,7 @@ body: |
     <b>Instalação:</b>
     Para começar a programar em Python, você deve fazer o download e sua instalação em seu sistema operacional através do site https://www.python.org/.  O Python está disponível para diversas plataformas, como Windows, MacOs e vem instalado por padrão em diversas distribuições Linux. É recomendado que você procure sempre a versão estável (stable). Durante a instalação, certifique-se de marcar a opção que adiciona o Python ao PATH, facilitando a execução de programas a partir do terminal ou prompt de comando. 
     </br></br>
-    <img src="/.github/_images/posts/intro_python_01.png"style="width: 100%; height: auto;"/>
+    <img src="/_images/posts/intro_python_01.png"style="width: 100%; height: auto;"/>
     </br></br>
     
 
@@ -27,14 +27,14 @@ body: |
     Seu primeiro “Olá, Mundo!”
     Qual o melhor jeito de começar em uma linguagem nova se não construindo o primeiro “Olá, Mundo!”? No Python isso pode ser feito através da simples linha de código a seguir: 
     </br></br>
-    <img src="/.github/_images/posts/Olá_mundo.png"/>
+    <img src="/_images/posts/Olá_mundo.png"/>
     </br></br>
     O comando “print” é responsável por imprimir uma mensagem no terminal, tal como “printf” em C e “System.out.print” em Java.
     </br></br>
     <b>Variáveis e tipos de dados </b> </br>
     Em Python, não é necessário declarar explicitamente o tipo da variável. A linguagem muda o tipo da variável dinamicamente baseado no dado que ela mantém.
     </br></br>
-    <img src="/.github/_images/posts/Variaveis.png"/>
+    <img src="/_images/posts/Variaveis.png"/>
     </br></br>
     Neste exemplo, temos três variáveis:
     “nome” recebeu o valor “João” que seria uma string, que deve ser passada entre aspas simples ou duplas.
@@ -43,14 +43,14 @@ body: |
     Estrutura de controle
     Assim como em outras linguagens, no Python também podemos fazer com que nosso código tome decisões:
     </br></br>
-    <img src="/.github/_images/posts/Estrutura_controle.png"/>
+    <img src="/_images/posts/Estrutura_controle.png"/>
     </br></br>
     No exemplo acima, temos uma declaração da variável “idade” que recebeu um valor 18 do tipo inteiro e logo abaixo temos a estrutura de decisão do tipo “if”que retorna duas mensagens diferentes, no caso da idade ser ou não maior ou igual à 18.
     </br>
     Loops
     O Python também possui loops que permitem repetir blocos de código baseado em condições:
     </br></br>
-    <img src="/.github/_images/posts/lool.png"/>
+    <img src="/_images/posts/lool.png"/>
     </br></br>
     O código acima, imprime os números de 1 a 5 por exemplo.
     </br>
