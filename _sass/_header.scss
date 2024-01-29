@@ -85,6 +85,10 @@ html:not([data-scroll='0']) {
     font-family: 'Titillium Web', sans-serif;
 }
 
+.site-nav .sidebar-content {
+    display: none;
+}
+
 .site-nav li {
     &:not(:first-child) {
         margin-left: 20px;
