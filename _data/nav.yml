@@ -11,9 +11,9 @@ items:
   name: Agenda
   icon_class: fas fa-calendar-alt
 
-# - url: /lectures/
-#   name: Projetos
-#   icon_class: fas fa-book-reader
+- url: https://residenciaticbrisa.github.io/projetos_imersao/
+  name: Projetos
+  icon_class: fas fa-book-reader
 
 - url: /posts/
   name: Posts
