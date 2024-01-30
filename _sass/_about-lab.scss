@@ -1,83 +1,63 @@
 .about-lab-wrapper {
-    background-color: #14193d;
-    padding: 30px 12%;
     display: flex;
+    min-height: 80vh;
+    width: 100%;
+
+    background-color: #14193d;
+}
+
+.imagens-grid-wrapper {
+    display: flex;
+    
+    img {
+        filter: grayscale(100%);
+        transition: all 0.4s ease-in-out;
+        
+        &:hover {
+            filter: grayscale(0%);
+        }
+    }
+}
+
+.images-column {
+    width: 50%;
+}
+
+.grid-wrapper {
+    height: 50%;
+    img {
+        object-fit: cover;
+        height: 100%;
+    }
+}
+
+.big-image {
+    img { 
+        object-fit: cover;
+        height: 100%;
+    }
 }
 
 .about-content {
-    width: 30%;
+    width: 90%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 0px 30px;
 
     .about-text {
         font-size: 14px;
         color: white;
-        text-align: right;
-    }
-}
-
-
-.imagens-grid-wrapper {
-    display: flex;
-    width: 65%;
-    
-    margin-right: 40px;
-}
-
-.imagens-grid-container {
-    width: 50%;
-
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    
-    .grid-wrapper-3 {
-        height: 25%;
-
-        display: flex;
-        justify-content: center;
-        align-items: center;
-
-        h1 {
-            text-align: center;
-            color: white;
-            margin: 0;
-            font-size: 35px;
-            font-weight: 600;
-        }
-    }
-    
-
-
-    .big-image {
-        height: 75%;
+        text-align: left;
     }
 
-
-    .grid-wrapper {
-        transition: all 0.4s ease-in-out;
-        filter: blur(0.02rem);
-        
-        padding: 20px;
-        
-        &:hover {
-            filter: blur(0rem);   
-        }
+    h1 {
+        text-align: center;
+        color: white;
+        margin: 0;
+        margin-bottom: 20px;
+        font-size: 35px;
+        font-weight: 600;
     }
-
-    img {
-        filter: grayscale(100%);
-    
-        box-shadow: 0 1px 2px #4250be1d;
-        transition: all 0.4s ease-in-out;
-        object-fit: cover;
-        
-        &:hover {
-            filter: grayscale(0%);
-    
-            box-shadow: 0 5px 30px rgba(66, 80, 190, 0.499);
-        }
-    }   
 }
