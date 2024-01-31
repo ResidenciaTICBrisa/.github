@@ -11,10 +11,6 @@ items:
   name: Agenda
   icon_class: fas fa-calendar-alt
 
-- url: https://residenciaticbrisa.github.io/projetos_imersao/
-  name: Projetos
-  icon_class: fas fa-book-reader
-
 - url: /posts/
   name: Posts
   icon_class: fas fa-user-graduate
@@ -22,5 +18,13 @@ items:
 - url: /materials/
   name: Materiais
   icon_class: fas fa-book
+
+- url: https://residenciaticbrisa.github.io/projetos_imersao/
+  name: Projetos
+  icon_class: fas fa-book-reader
+
+- url: https://forms.gle/21BRDLQvQGJccZpi6
+  name: Seja um parceiro
+  icon_class: fas fa-handshake
 
   
