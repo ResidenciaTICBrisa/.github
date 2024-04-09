@@ -12,9 +12,11 @@ layout: default
                 <div class="repo">
                     <h3><a href="{{ projeto.url | prepend: site.baseurl }}">{{ projeto.title }}</a></h3>
                     <p>{{ projeto.description }}</p>
-                    {% for tag in projeto.tags %}
-                        <p>{{ tag }}</p>
-                    {% endfor %}
+                    <div class="tags-content">
+                        {% for tag in projeto.tags %}
+                            <p>{{ tag }}</p>
+                        {% endfor %}
+                    </div>
                 </div>
             </div>
         {% endif %}
