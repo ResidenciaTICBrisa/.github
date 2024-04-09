@@ -47,6 +47,8 @@ collections:
         output: true
     post:
         output: true
+    projetos:
+        output: true
     announcements:
         output: false
 

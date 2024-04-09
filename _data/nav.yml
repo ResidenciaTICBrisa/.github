@@ -19,7 +19,7 @@ items:
   name: Materiais
   icon_class: fas fa-book
 
-- url: https://residenciaticbrisa.github.io/projetos_imersao/
+- url: /project/
   name: Projetos
   icon_class: fas fa-book-reader
 
