@@ -1,5 +1,6 @@
 ---
 type: post
+group: posts
 date: 2024-01-17
 title: 'Resultado 1.0 | Prova Final - Turma 2'
 author: Leonardo Gomes

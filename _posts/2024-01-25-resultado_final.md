@@ -1,5 +1,6 @@
 ---
 type: post
+group: posts
 date: 2024-01-25
 title: 'Resultado Final | Brisa UnB - Segunda Etapa'
 author: Suporte UnB

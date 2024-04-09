@@ -1,5 +1,6 @@
 ---
 type: post
+group: posts
 date: 2024-01-19
 title: 'Resultado 2.0 | Prova Final - Turma 2'
 author: Suporte UnB
