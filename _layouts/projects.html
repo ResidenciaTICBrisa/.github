@@ -6,7 +6,7 @@ layout: default
 </div>
 <div class="content-wrapper">
     <p>Aqui você encontrará o escopo dos Projetos realizados .</p>
-    {% for projeto in site.projetos %}
+    {% for projeto in site.posts %}
     <div class="repository-content">
         <div class="repo">
             <h3><a href="{{ projeto.url | prepend: site.baseurl }}">{{ projeto.title }}</a></h3>

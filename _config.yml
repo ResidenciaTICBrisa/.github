@@ -31,7 +31,7 @@ facebook_username: lappisunb5
 markdown: kramdown
 
 # Other options
-permalink: blog/:year/:month/:title
+permalink: posts/:title
 excerpt_separator: "<!--more-->"
 
 include: ['_images', '_css']
@@ -45,7 +45,7 @@ collections:
         output: true
     lectures:
         output: true
-    post:
+    posts:
         output: true
     projetos:
         output: true
@@ -56,6 +56,7 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "post"
+      type: "posts"
     values:
       layout: "post"
+
