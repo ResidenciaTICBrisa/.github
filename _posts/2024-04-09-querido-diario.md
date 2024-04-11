@@ -1,13 +1,13 @@
 ---
 type: post
 tags: |
-    ML
-    Previsão 
-    Educação
+    transparencia
+    python
+    api
 group: projects
 date: 2024-04-09
-title: 'Edutech - Acompanhamento de alunos de ensino médio em escolas privadas'
-description: Criar uma solução de predição de notas por meio de Machine Learning de alunos de ensino médio de escolas privadas com base no seu histórico acadêmico anterior, perfil familiar, perfil social, interação familiar com a educação, participação em atividades, desempenho acadêmico, evento escolares, histórico financeiro etc. para prever desempenho futuro do aluno (reprovação em matérias especificas, potencial de inadimplência, evasão, etc.)
+title: 'Evolução do Querido Diário'
+description: Onde conseguimos encontrar a maior parte dos dados relacionados às atividades municipais? No Diário Oficial. Com 5570 municípios no país, perfis como jornalistas, acadêmicos, ativistas e gestores públicos que desejem acompanhar as publicações de vários municípios para realização de matérias, estudos e tomadas de decisão, tem seu trabalho muito limitado, pois cada município publica seus diários oficiais da sua própria maneira e normalmente utilizando formatos fechados.
 body: |
     <b>O que é Versionamento de Código?</b>
     </br>

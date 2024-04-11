@@ -12,6 +12,7 @@ layout: default
                 <div class="repo">
                     <h3><a href="{{ projeto.url | prepend: site.baseurl }}">{{ projeto.title }}</a></h3>
                     <p>{{ projeto.description }}</p>
+                    <p class="project-date">{{ projeto.date | date_to_string }}</p>
                     <div class="tags-content">
                         {% for tag in projeto.tags %}
                             <p>{{ tag }}</p>

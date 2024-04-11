@@ -1,13 +1,14 @@
 ---
 type: post
 tags: |
-    ML
-    Previsão 
-    Educação
+    wordpress
+    frontend
+    design
+    lgbtqia+
 group: projects
 date: 2024-04-09
-title: 'Edutech - Acompanhamento de alunos de ensino médio em escolas privadas'
-description: Criar uma solução de predição de notas por meio de Machine Learning de alunos de ensino médio de escolas privadas com base no seu histórico acadêmico anterior, perfil familiar, perfil social, interação familiar com a educação, participação em atividades, desempenho acadêmico, evento escolares, histórico financeiro etc. para prever desempenho futuro do aluno (reprovação em matérias especificas, potencial de inadimplência, evasão, etc.)
+title: 'Plugin para Wordpress'
+description: Um plugin para WordPress projetado para simplificar o mapeamento georreferenciado de empreendimentos e serviços voltados para a comunidade LGBTQIAP+. Essa ferramenta proporciona uma maneira intuitiva de localizar e acessar informações sobre locais e serviços inclusivos, promovendo a visibilidade e a acessibilidade a recursos que atendem às necessidades específicas dessa comunidade. Com recursos de mapeamento interativo, este plugin visa criar uma plataforma inclusiva que facilita a busca e a conexão com empreendimentos e serviços amigáveis para a comunidade LGBTQIAP+.
 body: |
     <b>O que é Versionamento de Código?</b>
     </br>

@@ -1,13 +1,13 @@
 ---
 type: post
 tags: |
-    ML
-    Previsão 
-    Educação
+    frontend
+    design
+    wordpress
 group: projects
 date: 2024-04-09
-title: 'Edutech - Acompanhamento de alunos de ensino médio em escolas privadas'
-description: Criar uma solução de predição de notas por meio de Machine Learning de alunos de ensino médio de escolas privadas com base no seu histórico acadêmico anterior, perfil familiar, perfil social, interação familiar com a educação, participação em atividades, desempenho acadêmico, evento escolares, histórico financeiro etc. para prever desempenho futuro do aluno (reprovação em matérias especificas, potencial de inadimplência, evasão, etc.)
+title: 'Plataforma para a Revista Darcy'
+description: A Revista Darcy, criada em 2009 e sob a responsabilidade da Secretaria de Comunicação da Universidade de Brasília, destaca-se como uma publicação dedicada ao jornalismo científico e cultural. Projetada como uma vitrine da produção acadêmica da UnB, a revista apresenta reportagens que comunicam, de maneira acessível, as atividades de pesquisa e extensão desenvolvidas na instituição, oferecendo uma visão cativante e informativa do cenário acadêmico. Com isso, surge a necessidade de criar uma plataforma que possibilite uma comunicação mais fácil com os leitores da revista.
 body: |
     <b>O que é Versionamento de Código?</b>
     </br>

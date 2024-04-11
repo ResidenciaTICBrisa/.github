@@ -1,13 +1,13 @@
 ---
 type: post
 tags: |
-    ML
-    Previsão 
-    Educação
+    SistemaWeb
+    Automação 
+    Prestação 
 group: projects
 date: 2024-04-09
-title: 'Edutech - Acompanhamento de alunos de ensino médio em escolas privadas'
-description: Criar uma solução de predição de notas por meio de Machine Learning de alunos de ensino médio de escolas privadas com base no seu histórico acadêmico anterior, perfil familiar, perfil social, interação familiar com a educação, participação em atividades, desempenho acadêmico, evento escolares, histórico financeiro etc. para prever desempenho futuro do aluno (reprovação em matérias especificas, potencial de inadimplência, evasão, etc.)
+title: 'Automatec'
+description: Sistema Web para simplificar o preenchimento automatizado de planilhas na prestação de contas da FINATEC. Com a redução do preenchimento manual, diminuímos erros e otimizando o tempo, o sistema integra-se eficientemente a fontes de dados da empresa diretamente, proporcionando uma visão consolidada das informações financeiras. Medidas de segurança garantem a proteção de dados sensíveis, em conformidade com as normas da FINATEC. A capacidade de gerar relatórios personalizados contribui para uma análise mais aprofundada, promovendo uma gestão financeira eficiente e estratégica.
 body: |
     <b>O que é Versionamento de Código?</b>
     </br>

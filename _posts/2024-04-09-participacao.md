@@ -1,13 +1,14 @@
 ---
 type: post
 tags: |
-    ML
-    Previsão 
-    Educação
+    Text-to-speech
+    speech-to-text
+    real-time
+    Machine-Learning
 group: projects
 date: 2024-04-09
-title: 'Edutech - Acompanhamento de alunos de ensino médio em escolas privadas'
-description: Criar uma solução de predição de notas por meio de Machine Learning de alunos de ensino médio de escolas privadas com base no seu histórico acadêmico anterior, perfil familiar, perfil social, interação familiar com a educação, participação em atividades, desempenho acadêmico, evento escolares, histórico financeiro etc. para prever desempenho futuro do aluno (reprovação em matérias especificas, potencial de inadimplência, evasão, etc.)
+title: 'Comunicação para além do texto em plataformas de participação digital'
+description: Em plataformas de participação digital, é muito importante permitir que toda população seja capaz de acessar a plataforma, compreender propostas e participar ativamente na priorização de propostas e sugestão de propostas. Para que possamos atingir populações mais vulneráveis, potencialmente não-letradas, a plataforma deve ter uma linguagem acessível, e replicar práticas de mídias sociais, com o uso de símbolos e comunicação para além do escrito. A forma mais acessível de comunicação é a verbal. Para isso, o presente projeto tem como objetivo propor uma solução que permita a interação em um ambiente de participação digital por meio de comunicação verbal. Ou seja, o texto do site deve ser convertido em diálogo e a conversa do usuário deve ser convertida em texto.
 body: |
     <b>O que é Versionamento de Código?</b>
     </br>

@@ -1,13 +1,12 @@
 ---
 type: post
 tags: |
-    ML
-    Previsão 
-    Educação
+    jogos
+    unity
 group: projects
 date: 2024-04-09
-title: 'Edutech - Acompanhamento de alunos de ensino médio em escolas privadas'
-description: Criar uma solução de predição de notas por meio de Machine Learning de alunos de ensino médio de escolas privadas com base no seu histórico acadêmico anterior, perfil familiar, perfil social, interação familiar com a educação, participação em atividades, desempenho acadêmico, evento escolares, histórico financeiro etc. para prever desempenho futuro do aluno (reprovação em matérias especificas, potencial de inadimplência, evasão, etc.)
+title: 'Jogo em Unity para o BOSS'
+description: O BOSS, um programa de mentoria inovador, tem como objetivo envolver grupos sub-representados no cenário tecnológico, buscando promover a diversidade e inclusão no universo do Open Source. Este programa pioneiro não apenas fomenta a participação desses grupos, mas também cria oportunidades valiosas para o desenvolvimento de habilidades e a expansão do conhecimento em tecnologia. Esta iniciativa não apenas destaca a importância da diversidade no campo da tecnologia, mas também demonstra como a colaboração entre organizações pode resultar em projetos inovadores e inclusivos, contribuindo para a expansão do acesso e participação em iniciativas de código aberto. Como parte desse compromisso, propõe-se o desenvolvimento de um jogo Unity em parceria com a BRISA.
 body: |
     <b>O que é Versionamento de Código?</b>
     </br>

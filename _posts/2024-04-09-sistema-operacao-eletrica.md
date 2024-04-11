@@ -1,13 +1,14 @@
 ---
 type: post
 tags: |
-    ML
-    Previsão 
-    Educação
+   mobile
+    design
+    frontend
+    embarcados
 group: projects
 date: 2024-04-09
-title: 'Edutech - Acompanhamento de alunos de ensino médio em escolas privadas'
-description: Criar uma solução de predição de notas por meio de Machine Learning de alunos de ensino médio de escolas privadas com base no seu histórico acadêmico anterior, perfil familiar, perfil social, interação familiar com a educação, participação em atividades, desempenho acadêmico, evento escolares, histórico financeiro etc. para prever desempenho futuro do aluno (reprovação em matérias especificas, potencial de inadimplência, evasão, etc.)
+title: 'Sistema de Auxílio para Operação e Manutenção de Instalação Elétrica'
+description: Uma ferramenta concebida para facilitar o processo de coleta de dados, essencial no suporte às operações e manutenções de sistemas de instalação elétrica. Este sistema será desenvolvido com o propósito específico de agilizar a obtenção de informações cruciais, aprimorando assim a eficiência nas operações e garantindo uma gestão mais eficaz das instalações elétricas.
 body: |
     <b>O que é Versionamento de Código?</b>
     </br>
