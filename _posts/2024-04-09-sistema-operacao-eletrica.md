@@ -12,7 +12,7 @@ description: Uma ferramenta concebida para facilitar o processo de coleta de dad
 body: |
     <b>O que é Versionamento de Código?</b>
     </br>
-    O versionamento de código é uma prática fundamental no desenvolvimento de software, permitindo o controle, acompanhamento e organização das alterações feitas no código-fonte ao longo do tempo. Ele oferece uma visão cronológica das modificações, facilitando o trabalho colaborativo e a manutenção do código. 
+    O versionamento de código é uma prática fundamental no desenvolvimento de software, permitindo o controle, acompanhamento e organização das alterações feitas n o código-fonte ao longo do tempo. Ele oferece uma visão cronológica das modificações, facilitando o trabalho colaborativo e a manutenção do código.
     </br>
     </br>
     
