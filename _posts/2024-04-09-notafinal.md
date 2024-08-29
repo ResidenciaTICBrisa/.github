@@ -15,7 +15,7 @@ body: |
     <a href="/static_files/results/Nota_final-Brisa.pdf">Resultado final</a>
     </br>
     </br>
-    <b>ATENÇÃO</b>: Os certificados e o termo de doação serão enviados por e-mail
+    <b>ATENÇÃO</b>: Os certificados e o termo de doação serão enviados por e-mail. 
     </br>
     </br>
     Parabéns a todos os participantes pelo esforço e dedicação! 
